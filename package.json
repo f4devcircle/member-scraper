@@ -1,0 +1,13 @@
+{
+  "name": "memberscraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.2",
+    "cheerio": "^1.0.0-rc.2",
+    "node-html-parser": "^1.1.10",
+    "redis": "^2.8.0"
+  }
+}
